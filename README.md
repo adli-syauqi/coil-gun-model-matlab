@@ -4,10 +4,16 @@ This MATLAB R2025b project simulates a laboratory-scale single-stage solenoid co
 
 ## Simulation Previews
 
-**Projectile Animation** ![Coil Gun Projectile Animation](assets/coil_gun_sim.gif)  
+**Projectile Animation** !
+
+[Coil Gun Projectile Animation](assets/coil_gun_sim.gif)  
+
 *(Real-time kinematic acceleration of the ferromagnetic projectile traversing the coil)*
 
-**Comprehensive Simulation Dashboard** ![Overall Simulation Dashboard](assets/visual_coil_gun.png)  
+**Comprehensive Simulation Dashboard** 
+
+![Overall Simulation Dashboard](assets/visual_coil_gun.png)  
+
 *(Combined view showing 3D coil geometry, Biot-Savart magnetic field distribution, underdamped RLC current pulse, and projectile dynamics)*
 
 ## What the Simulation Demonstrates
