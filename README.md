@@ -2,6 +2,14 @@
 
 This MATLAB R2025b project simulates a laboratory-scale single-stage solenoid coil gun as an electromagnetics teaching model. It is intended for a university physics project or article draft, not as a weapon design optimizer.
 
+## Simulation Previews
+
+**Projectile Animation** ![Coil Gun Projectile Animation](assets/coil_gun_sim.gif)  
+*(Real-time kinematic acceleration of the ferromagnetic projectile traversing the coil)*
+
+**Comprehensive Simulation Dashboard** ![Overall Simulation Dashboard](assets/visual_coil_gun.png)  
+*(Combined view showing 3D coil geometry, Biot-Savart magnetic field distribution, underdamped RLC current pulse, and projectile dynamics)*
+
 ## What the Simulation Demonstrates
 
 - A finite solenoid represented by discrete circular current loops.
