@@ -4,9 +4,9 @@ This MATLAB R2025b project simulates a laboratory-scale single-stage solenoid co
 
 ## Simulation Previews
 
-**Projectile Animation** !
+**Projectile Animation** 
 
-[Coil Gun Projectile Animation](assets/coil_gun_sim.gif)  
+![Coil Gun Projectile Animation](assets/coil_gun_sim.gif)  
 
 *(Real-time kinematic acceleration of the ferromagnetic projectile traversing the coil)*
 
