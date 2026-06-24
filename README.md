@@ -55,7 +55,7 @@ This MATLAB R2025b project simulates a laboratory-scale single-stage solenoid co
 
 Projectile:
 
-- Mass: 20 g
+- Mass: 5 g
 - Length: 3 cm
 - Radius: 5 mm
 - Relative permeability: 200
@@ -65,15 +65,15 @@ Coil:
 
 - Radius: 1.5 cm
 - Length: 5 cm
-- Turns: 500
+- Turns: 100
 - 48 Biot-Savart segments per turn
 
 Electrical pulse:
 
-- Peak current: 50 A
+- Peak current: 120 A
 - Resistance: 0.08 ohm
 - Inductance: 1 mH
-- Capacitance: 8 mF
+- Capacitance: 300 uF
 
 ## Running
 
